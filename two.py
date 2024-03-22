@@ -1,4 +1,3 @@
-import random
-import one
-
-one.guess_number(2)
+for x in range(9):
+    for y in range(3):
+        print(x, y)
